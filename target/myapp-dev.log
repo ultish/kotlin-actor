@@ -1,0 +1,3 @@
+[2023-12-24 13:13:38,613] [INFO] [akka.event.slf4j.Slf4jLogger] [] [part1-akka.actor.default-dispatcher-4] - Slf4jLogger started MDC: {}
+[2023-12-24 13:13:38,701] [INFO] [akka.actor.ActorSystemImpl] [] [part1-akka.actor.default-dispatcher-4] - Sending Hello Kotlin MDC: {akkaAddress=akka://part1, akkaUid=-7617094429204574846, sourceThread=main, akkaSource=akka.actor.ActorSystemImpl(part1), sourceActorSystem=part1, akkaTimestamp=02:13:38.699UTC}
+[2023-12-24 13:13:38,705] [INFO] [Part1Kt$main$HelloKotlinActor] [] [part1-akka.actor.default-dispatcher-4] - Hello Kotlin MDC: {akkaAddress=akka://part1, akkaUid=-7617094429204574846, sourceThread=part1-akka.actor.default-dispatcher-5, akkaSource=akka://part1/user/$a, sourceActorSystem=part1, akkaTimestamp=02:13:38.704UTC}
